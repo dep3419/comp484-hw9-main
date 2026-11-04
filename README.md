@@ -32,7 +32,7 @@ Course: COMP 484
 
 ## GitHub Pages Link
 
-https://YOUR-USERNAME.github.io/YOUR-REPOSITORY-NAME/
+(https://dep3419.github.io/comp484-hw9-main/)
 
 ---
 
