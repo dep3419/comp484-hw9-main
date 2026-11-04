@@ -40,7 +40,7 @@ https://YOUR-USERNAME.github.io/YOUR-REPOSITORY-NAME/
 
 ## Screenshot
 
-![JavaScript Mini Demo](screenshot.png)
+![JavaScript Mini Demo](screenshot.jpg)
 ---
 
 ## Reflection
