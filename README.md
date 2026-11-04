@@ -38,9 +38,8 @@ https://YOUR-USERNAME.github.io/YOUR-REPOSITORY-NAME/
 
 ## Screenshot
 
-## Screenshot
-
 ![JavaScript Mini Demo](screenshot.jpg)
+
 ---
 
 ## Reflection
