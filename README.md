@@ -67,4 +67,4 @@ This assignment was completed using:
 - COMP 484 lecture materials
 - (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)
 - (https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementByID)
-- https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)
+- (https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)
